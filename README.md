@@ -1,7 +1,7 @@
-<H3>KANISHKAR M</H3>
-<H3>212222240044</H3>
-<H3>EX. NO.6</H3>
-<H3>DATE:23.04.2024</H3>
+## NAME: GANESH R
+## REG NO: 212222240029
+## EX. NO: 6
+## DATE: 24.04.2024
 <H1 ALIGN =CENTER>IMPLEMENTATION OF SEMANTIC ANALYSIS</H1>
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
